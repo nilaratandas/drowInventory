@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T08:46:53.036Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Xx3U7q4vNCaoimvxCsKE" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-22T08:53:44.777Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="7MO14frdIRqWEPZGI-4J" version="17.4.6" type="github">
   <diagram id="t3gU_UeMW9G3tFnKC1mk" name="Page-1">
     <mxGraphModel dx="1426" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -561,12 +561,6 @@
         </mxCell>
         <mxCell id="Q123pR5R-Ik9AYbAvbdh-180" value="EPS DB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="750" y="1410" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Q123pR5R-Ik9AYbAvbdh-182" value="Update Owner Details&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="1460" as="targetPoint" />
-            <mxPoint x="330" y="1415" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Q123pR5R-Ik9AYbAvbdh-183" value="AIT Delegation Flow" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="30" y="1190" width="220" height="40" as="geometry" />
