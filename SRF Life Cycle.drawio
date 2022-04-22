@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T07:59:34.941Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="S4dodRjmtdbSxL4kwTWD" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-22T08:00:13.436Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="H5QIx8PLeL6fpPx3TiCu" version="17.4.6" type="github">
   <diagram id="t3gU_UeMW9G3tFnKC1mk" name="Page-1">
     <mxGraphModel dx="1426" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -626,13 +626,13 @@
         <mxCell id="Q123pR5R-Ik9AYbAvbdh-200" value="Ready to utilise during SRF creation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="851" y="1772" width="119" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="Q123pR5R-Ik9AYbAvbdh-208" value="Firewall Template" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="Q123pR5R-Ik9AYbAvbdh-208" value="Firewall Rule Template" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="37" y="1880" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q123pR5R-Ik9AYbAvbdh-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q123pR5R-Ik9AYbAvbdh-210" target="Q123pR5R-Ik9AYbAvbdh-212">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q123pR5R-Ik9AYbAvbdh-210" value="Create Address / Service group" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="Q123pR5R-Ik9AYbAvbdh-210" value="Create Firewall rule template&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="97" y="1962" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Q123pR5R-Ik9AYbAvbdh-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q123pR5R-Ik9AYbAvbdh-212" target="Q123pR5R-Ik9AYbAvbdh-214">
