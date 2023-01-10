@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-06T10:49:40.188Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Pst0NcYQXZb5DnlMGJ7p" version="20.8.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-01-10T05:38:47.575Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ZymnXcXIj97JqAMesNFC" version="20.8.1" type="github" pages="6">
   <diagram id="t3gU_UeMW9G3tFnKC1mk" name="Page-1">
-    <mxGraphModel dx="1434" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1983,115 +1983,122 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3jcrNX7U_7dXEbsn54rC" name="Page-6">
-    <mxGraphModel dx="1434" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2044" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7nhvnO90h6kRZvtHp2aq-1" value="PI-16" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7nhvnO90h6kRZvtHp2aq-1" value="PI-16" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="100" width="220" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7nhvnO90h6kRZvtHp2aq-2" value="PI-17" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7nhvnO90h6kRZvtHp2aq-2" value="PI-17" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="100" width="330" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7nhvnO90h6kRZvtHp2aq-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="7nhvnO90h6kRZvtHp2aq-1">
+        <mxCell id="7nhvnO90h6kRZvtHp2aq-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" target="7nhvnO90h6kRZvtHp2aq-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="440" as="sourcePoint" />
             <mxPoint x="100" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7nhvnO90h6kRZvtHp2aq-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="7nhvnO90h6kRZvtHp2aq-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="440" as="sourcePoint" />
             <mxPoint x="260" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7nhvnO90h6kRZvtHp2aq-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="7nhvnO90h6kRZvtHp2aq-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="149.5" y="440" as="sourcePoint" />
             <mxPoint x="149.5" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7nhvnO90h6kRZvtHp2aq-6" value="16.6&lt;br&gt;Jan 11 - 24" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7nhvnO90h6kRZvtHp2aq-6" value="16.6&lt;br&gt;Jan 11 - 24" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="150" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7nhvnO90h6kRZvtHp2aq-7" value="16.6&lt;br&gt;Jan 25 - Feb 7" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7nhvnO90h6kRZvtHp2aq-7" value="16.7&lt;br&gt;Jan 25 - Feb 7" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="150" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7nhvnO90h6kRZvtHp2aq-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="7nhvnO90h6kRZvtHp2aq-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry x="0.1724" y="-30" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="440" as="sourcePoint" />
             <mxPoint x="370" y="150" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7nhvnO90h6kRZvtHp2aq-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="7nhvnO90h6kRZvtHp2aq-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="440" as="sourcePoint" />
             <mxPoint x="480" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7nhvnO90h6kRZvtHp2aq-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="7nhvnO90h6kRZvtHp2aq-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="440" as="sourcePoint" />
             <mxPoint x="590" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7nhvnO90h6kRZvtHp2aq-11" value="17.1&lt;br&gt;Feb 8 - Feb 21" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7nhvnO90h6kRZvtHp2aq-11" value="17.1&lt;br&gt;Feb 8 - Feb 21" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="150" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7nhvnO90h6kRZvtHp2aq-12" value="17.2&lt;br&gt;&amp;nbsp;Feb 22 - March 7" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7nhvnO90h6kRZvtHp2aq-12" value="17.2&lt;br&gt;&amp;nbsp;Feb 22 - March 7" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="150" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7nhvnO90h6kRZvtHp2aq-13" value="17.3&lt;br&gt;March 7 - 21" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7nhvnO90h6kRZvtHp2aq-13" value="17.3&lt;br&gt;March 7 - 21" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="150" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7nhvnO90h6kRZvtHp2aq-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7nhvnO90h6kRZvtHp2aq-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="190" width="550" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="7nhvnO90h6kRZvtHp2aq-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7nhvnO90h6kRZvtHp2aq-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="320" width="550" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="7nhvnO90h6kRZvtHp2aq-18" value="&lt;b&gt;EPS 2.4 Release&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7nhvnO90h6kRZvtHp2aq-18" value="&lt;b&gt;EPS 2.4 Release&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="267.5" y="313" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7nhvnO90h6kRZvtHp2aq-19" value="&lt;b&gt;Platform Upgrade&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="7nhvnO90h6kRZvtHp2aq-19" value="&lt;b&gt;Platform Upgrade&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="252" y="184" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7nhvnO90h6kRZvtHp2aq-20" value="SIT2 Regression testing (Jan 11 to 16)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7nhvnO90h6kRZvtHp2aq-20" value="SIT2 Regression testing (Jan 12 to 16) + 17th (B)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="40" y="320" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7nhvnO90h6kRZvtHp2aq-21" value="UAT Testing (Jan 18th to Feb 1st)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7nhvnO90h6kRZvtHp2aq-21" value="UAT Testing (Jan 18th to Feb 1st)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="40" y="390" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7nhvnO90h6kRZvtHp2aq-22" value="Service Regression Testing in RTP&lt;br&gt;BPA 3.2.2 + NSO 5.7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="7nhvnO90h6kRZvtHp2aq-22" value="Service Regression Testing in RTP&lt;br&gt;BPA 3.2.2 + NSO 5.7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="40" y="210" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7nhvnO90h6kRZvtHp2aq-23" value="NSO 5.7 upgrade to SIT2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="7nhvnO90h6kRZvtHp2aq-23" value="NSO 5.7 upgrade to SIT2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="40" y="259" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7nhvnO90h6kRZvtHp2aq-24" value="Service Regression Testing in SIT2&lt;br&gt;BPA 3.2.2 + NSO 5.7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="7nhvnO90h6kRZvtHp2aq-24" value="Service Regression Testing in SIT2&lt;br&gt;BPA 3.2.2 + NSO 5.7" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="260" y="210" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7nhvnO90h6kRZvtHp2aq-27" value="Service Testing UAT&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="7nhvnO90h6kRZvtHp2aq-27" value="Service Testing UAT&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="480" y="210" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7nhvnO90h6kRZvtHp2aq-28" value="UAT Feedback retest?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="7nhvnO90h6kRZvtHp2aq-28" value="Feedback and Issue retest in SIT1 -&amp;gt; UAT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="40" y="440" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7nhvnO90h6kRZvtHp2aq-29" value="Prod Hotfix issue reproduce and retest?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="7nhvnO90h6kRZvtHp2aq-29" value="Prod Hotfix issue reproduce and retest - SIT1 (only)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="260" y="440" width="330" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7nhvnO90h6kRZvtHp2aq-31" value="NSO 5.7 upgrade to SIT2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="7nhvnO90h6kRZvtHp2aq-31" value="NSO 5.7 upgrade to SIT2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="379" y="259" width="92.5" height="40" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="7vHN_xhQIUC6FvBKNwEY" name="Page-7">
-    <mxGraphModel dx="1434" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
+        <mxCell id="fNY3jVPjvd7D_bRdw09U-1" value="16.4 release regression testing (10-12)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="500" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fNY3jVPjvd7D_bRdw09U-2" value="NIDM UAT Not Reachable" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fNY3jVPjvd7D_bRdw09U-3" value="16th holidays in US" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fNY3jVPjvd7D_bRdw09U-4" value="17th to 24th" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="560" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fNY3jVPjvd7D_bRdw09U-5" value="16.6 : R R T - SIT1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="155" y="330" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
