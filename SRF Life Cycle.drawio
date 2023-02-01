@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-27T14:49:40.133Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="kvLiHrGi6QpIvhHPwrIL" version="20.8.10" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-02-01T11:41:23.452Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="z5oueZCquLGbLK1ZUUdN" version="20.8.13" type="github" pages="8">
   <diagram id="t3gU_UeMW9G3tFnKC1mk" name="SRF - Life Cycle">
-    <mxGraphModel dx="1186" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2220,7 +2220,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EBFZfa0xfKgOV4TlZj8M" name="PI-17 Dev Plan">
-    <mxGraphModel dx="1979" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2033" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2281,25 +2281,25 @@
         <mxCell id="33wLi4h8aU5WbmO96fgQ-13" value="17.4" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="129" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="33wLi4h8aU5WbmO96fgQ-14" value="Bulk Zone - Dev (1d, 1q)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="33wLi4h8aU5WbmO96fgQ-14" value="Bulk Zone - Dev (1d, 1q)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="10" y="209" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="33wLi4h8aU5WbmO96fgQ-15" value="Large Size file upload - POC (1d)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="33wLi4h8aU5WbmO96fgQ-15" value="Large Size file upload (2d)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="10" y="249" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="33wLi4h8aU5WbmO96fgQ-16" value="Large Size Explanation (2d , 1q)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="33wLi4h8aU5WbmO96fgQ-16" value="Large Size file upload - QA (RTP OS, UAT)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="190" y="169" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="33wLi4h8aU5WbmO96fgQ-17" value="Large Size Explanation (1d, 1q)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="33wLi4h8aU5WbmO96fgQ-17" value="Large Size file upload - UAT testing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="360" y="169" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="33wLi4h8aU5WbmO96fgQ-18" value="AIT Manager Bypass" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="33wLi4h8aU5WbmO96fgQ-18" value="AIT Manager Bypass" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="190" y="209" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="33wLi4h8aU5WbmO96fgQ-19" value="Service Versioning&amp;nbsp; - testing (2q)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="169" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="33wLi4h8aU5WbmO96fgQ-20" value="AIT Manager Bypass" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="33wLi4h8aU5WbmO96fgQ-20" value="AIT Manager Bypass" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="360" y="209" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="33wLi4h8aU5WbmO96fgQ-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -2311,29 +2311,32 @@
         <mxCell id="33wLi4h8aU5WbmO96fgQ-23" value="BPA 3.2.2 &amp;amp; NSO 5.7" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="370" y="40" width="120" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="33wLi4h8aU5WbmO96fgQ-24" value="2.5 -&amp;gt; 232 VM (1d)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="33wLi4h8aU5WbmO96fgQ-24" value="2.5 -&amp;gt; 232 VM (1d)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-170" y="169" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="33wLi4h8aU5WbmO96fgQ-25" value="2.4 -&amp;gt; 231 VM (BPA - 3.1)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="33wLi4h8aU5WbmO96fgQ-25" value="2.4 -&amp;gt; 231 VM (BPA - 3.1)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-170" y="209" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="33wLi4h8aU5WbmO96fgQ-26" value="Large Size Explanation QA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="33wLi4h8aU5WbmO96fgQ-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="169" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="33wLi4h8aU5WbmO96fgQ-27" value="AIT Manager Bypass - QA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="33wLi4h8aU5WbmO96fgQ-27" value="AIT Manager Bypass - QA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="530" y="209" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="33wLi4h8aU5WbmO96fgQ-28" value="BPA-3.2.2 testing - SIT2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="33wLi4h8aU5WbmO96fgQ-28" value="BPA-3.2.2 testing - SIT2 (16.6)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="190" y="349" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CIcXi-wUt_QZbtyNUapy-1" value="2.4 -&amp;gt; 198 VM (BPA - 3.1)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="CIcXi-wUt_QZbtyNUapy-1" value="2.4 -&amp;gt; 198 VM (BPA - 3.1)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-170" y="249" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CIcXi-wUt_QZbtyNUapy-2" value="Jan 31st Regression Testing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="CIcXi-wUt_QZbtyNUapy-2" value="Jan 31st Regression Testing" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="289" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CIcXi-wUt_QZbtyNUapy-3" value="RTP OS&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="CIcXi-wUt_QZbtyNUapy-3" value="RTP OS&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-170" y="290" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8HaddMmwDkw0P-UxDj-6-1" value="Add Comment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="190" y="249" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
