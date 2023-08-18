@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-18T16:51:49.667Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/116.0" etag="ty_ego5X0GzirxdYmd2a" version="21.6.8" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-08-18T17:13:34.900Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/116.0" etag="hHXSXBLWrke7MhDb3e7o" version="21.6.8" type="github" pages="15">
   <diagram id="t3gU_UeMW9G3tFnKC1mk" name="SRF - Life Cycle">
     <mxGraphModel dx="1242" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -4238,7 +4238,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vXt7hEF5Ee6muezqcfLA-58" value="AIT Approval" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="200" y="863" width="100" height="50" as="geometry" />
+          <mxGeometry x="203" y="863" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vXt7hEF5Ee6muezqcfLA-59" value="Compliance Approval" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="330" y="863" width="100" height="50" as="geometry" />
